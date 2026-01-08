@@ -1,16 +1,17 @@
-## Hi there 👋
+## SOC Analyst | Incident Detection & Response
 
-<!--
-**shewag-IR/shewag-IR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a SOC Analyst (L1) focused on incident triage, log analysis, and web attack detection.
 
-Here are some ideas to get you started:
+### Core Skills
+- Web attack detection (IDOR, XSS, SQL Injection)
+- Log analysis (Web, Application, Authentication)
+- Incident triage & escalation
+- Evidence-based incident reporting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hands-on Platforms
+- LetsDefend
+- TryHackMe
+- SIEM-style alert investigation
+
+### Focus
+This profile documents structured SOC incident reports, detection notes, and lab-based investigations aligned with real SOC workflows.
